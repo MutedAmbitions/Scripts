@@ -4,7 +4,7 @@ Random Python and Bash scripts that I wrote based on random ideas.
 ## Python Scripts
 ### Cipher.py
 Encodes a Plaintext either by using ROT13 (Caesar Cipher) or the Vigenère Cipher.
-Decodes a Ciphertext which was encoded using either of the two ciphers mentioned above.
+Also Decodes a Ciphertext which was encoded using either of the two ciphers previously mentioned.
 More Cipher techniques will probably be added later.
 The Plaintext or Ciphertext must be passed through standard input.
 
