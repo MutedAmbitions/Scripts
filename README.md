@@ -1,5 +1,5 @@
 # Scripts
-Random Python and Bash scripts that I wrote based on random ideas.
+Random Python, C, and Bash scripts that I wrote based on random ideas.
 
 ## Python Scripts
 ### Cipher.py
